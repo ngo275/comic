@@ -7,3 +7,5 @@ You can read comics.
 - `php -S localhost:8000 -t comic`
 
 - access [localhost:8000](http://localhost:8000)
+
+![image](https://s3-ap-northeast-1.amazonaws.com/ngo275.asset/Pic/comicimage.png)
