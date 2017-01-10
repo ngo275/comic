@@ -6,4 +6,4 @@ You can read comics.
 
 - `php -S localhost:8000 -t comic`
 
-- access (localhost:8000)[http://localhost:8000].
+- access (localhost:8000)[http://localhost:8000]
