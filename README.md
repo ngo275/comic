@@ -1,14 +1,14 @@
 # comic
 You can read comics.
 
-##Usage
+## Usage
 - `git clone https://github.com/ngo275/comic.git ~/comic`
 
 - `php -S localhost:8000 -t ~/comic`
 
 - access [localhost:8000](http://localhost:8000)
 
-##Comics
+## Comics
 Default setting displays "進撃の巨人", if you want change the comic please edit `comic_id` in `index.php`.
 And if you edit `story_id` in `index.php`, you can read other stories of the comic. 
 
